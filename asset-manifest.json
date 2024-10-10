@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ws101-nicodemus-navbar/static/css/main.a3b12723.css",
+    "main.js": "/ws101-nicodemus-navbar/static/js/main.43722c17.js",
+    "static/media/bg1.png": "/ws101-nicodemus-navbar/static/media/bg1.25a4d052519b3415f557.png",
+    "index.html": "/ws101-nicodemus-navbar/index.html",
+    "main.a3b12723.css.map": "/ws101-nicodemus-navbar/static/css/main.a3b12723.css.map",
+    "main.43722c17.js.map": "/ws101-nicodemus-navbar/static/js/main.43722c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3b12723.css",
+    "static/js/main.43722c17.js"
+  ]
+}
